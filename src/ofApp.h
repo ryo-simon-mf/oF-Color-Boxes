@@ -29,42 +29,17 @@ public:
     ofEasyCam cam;
     
     ofxPanel gui;
-    ofxToggle toggle_0;
-    ofxToggle toggle_1;
-    ofxToggle toggle_2;
-    ofxToggle toggle_3;
-    ofxToggle toggle_4;
-    ofxToggle depth;
-    
-    
-    ofxFloatSlider xslider;
-    ofxFloatSlider yslider;
-    ofxFloatSlider zslider;
-    ofxFloatSlider xslider_1;
-    ofxFloatSlider yslider_1;
-    ofxFloatSlider zslider_1;
-    ofxFloatSlider xslider_2;
-    ofxFloatSlider yslider_2;
-    ofxFloatSlider zslider_2;
-    ofxIntSlider int_slider_0;
-    ofxIntSlider int_slider_1;
-    ofxIntSlider int_slider_2;
+    ofxToggle toggle_0, toggle_1, toggle_2, toggle_3, toggle_4, depth;
+    ofxFloatSlider xslider, yslider, zslider, xslider_1, yslider_1, zslider_1, xslider_2, yslider_2, zslider_2, int_slider_0, int_slider_1, int_slider_2;
     
     ofxColorSlider color;
     ofxVec3Slider xyz;
     ofxVec3Slider camPositionGui;
-    bool bHide;
-    bool open;
-    bool open1;
-    bool open2;
-    bool open3;
-    bool open4;
-    bool on;
     
     
-    float rotate_x;
-    float rotate_y;
-    float rotate_z;
+    bool bHide, open, open1, open2, open3, open4, on;
+    
+    float rotate_x, rotate_y, rotate_z;
     
     
     

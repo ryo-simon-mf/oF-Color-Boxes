@@ -1,10 +1,3 @@
-//
-//  box1.cpp
-//  boxes_ver_3_0
-//
-//  Created by Ryo Simon on 2018/12/12.
-//
-
 #include "box1.hpp"
 
 Box2::Box2(){

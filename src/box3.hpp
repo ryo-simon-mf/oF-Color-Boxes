@@ -1,10 +1,3 @@
-//
-//  box3.hpp
-//  boxes_ver_3_0
-//
-//  Created by Ryo Simon on 2018/12/12.
-//
-
 #ifndef box3_hpp
 #define box3_hpp
 
